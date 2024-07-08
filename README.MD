@@ -25,7 +25,8 @@ Actualmente no se aceptan contribuciones externas para este proyecto.
 ## 🙌 Créditos
 
 - Las imágenes de los productos son tomadas de MercadoLibre Colombia.
-- El diseño y desarrollo son realizados por Nicolas Ruiz Giraldo.
+- El diseño y desarrollo son realizados por <strong> Nicolas Ruiz Giraldo </strong>.
+- <strong> Email: nicorrugi@gmail.com </strong>
 
 ## 📝 Licencia
 
